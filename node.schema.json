@@ -1,0 +1,7 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "http://apato.xyz/schemas/node.schema.json",
+  "title": "Node",
+  "description": "A person, organization, work (e.g. of art, engineering, scholarship or science), event, place, or a reference (e.g. a citation to an external system).",
+  "type": "object"
+}
